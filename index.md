@@ -10,3 +10,7 @@ I added different sizes of headers to index.md
 ```pascal
 for i:= 0 to MX_FILE do
 ```
+Here is a check list
+- [x] Go to class
+- [x] Read
+- [ ] Introduce myself to the world
